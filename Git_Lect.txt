@@ -1,0 +1,1 @@
+kisi file ko ignore krna hai to un  file ko git ignore k folder m daldl
